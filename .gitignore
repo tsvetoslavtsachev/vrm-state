@@ -1,0 +1,12 @@
+# Track ONLY the files that go to GitHub (vrm-state repo).
+# All other VRM2 content stays local (drafts, archives, internal scripts, etc).
+
+# Ignore everything by default
+/*
+
+# Whitelist what to publish
+!/.gitignore
+!/.gitattributes
+!/VRM_STATE.md
+!/VRM_WEEK.md
+!/Handoffs
