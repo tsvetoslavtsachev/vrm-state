@@ -13,7 +13,7 @@
 
 > Постоянен файл. Чете се от всички VRM скилове при старт на всяка сесия.
 > Актуализира се автоматично след одобряване на текстовете всяка седмица.
-> **Последна актуализация:** 2026-05-16 (сесия: Ф1+Ф2 — Ре-вход [B] Step 2 → 100% REFLATION)
+> **Последна актуализация:** 2026-05-26 (сесия: Ф1+Ф2+Ф3+Ф7 — perception trade diagnose + Analyst Brief + Пазарен Пулс)
 
 ---
 
@@ -90,37 +90,53 @@ Behavioral dislocation между модел (REFLATION 7/8) и flow (GROWTH nar
 
 ---
 
-## 📅 КОНТЕКСТ ОТ ТАЗИ СЕДМИЦА (записан: 2026-05-10)
+## 📅 КОНТЕКСТ ОТ ТАЗИ СЕДМИЦА (записан: 2026-05-26)
 
-*Чете се при старт на следващата сесия (≈ 16-17 май 2026)*
+*Чете се при старт на следващата сесия (≈ 31 май / 1 юни 2026)*
 
-**KS Еп.8 ДЕАКТИВИРАН (10.05.2026).** Активен 28.03 → 10.05 (6.1 седмици).
-Стагфлационната заплаха (тарифен шок + Ормуз) беше реална и измерима.
-KS защити портфейла през периода. Условията за деактивация изпълнени.
+**Тезата за тази седмица: PERCEPTION TRADE vs REALITY** (одобрена диагноза от Цветослав).
 
-**Behavioral dislocation — диагноза одобрена от Цветослав:**
-- Моделът класифицира REFLATION (Alignment 7/8, INFL_PROT UNDER)
-- Пазарното поведение НЕ съответства: 3 ПРОТИВОРЕЧИЯ (SPY/QQQ нагоре, XLE надолу)
-- Това **не е шум, не е регресия** — поведение на масовия инвеститор
-- Драйвери: силни отчети, AI capex, очакван спад на петрола
-- Игнорирани рискове: Ормуз затворен, 15% blanket tariff, тарифен натиск
+Пазарите цени **три надежди едновременно**:
+1. **Мир с Иран** → oil от $104 към $70-80 → CPI пада → Fed cuts
+2. **AI productivity** → растеж без инфлация (supply-side miracle)
+3. **Стабилна заетост** → recession off the table → soft landing потвърден
 
-**Gap анализ — ключови числа (4W cumulative):**
-- SPY +8.35%, QQQ +15.55%, IWM +8.56% — продължава FOMO/momentum покачването
-- XLE -1.88% — REFLATION очаква СИЛЕН → ПРОТИВОРЕЧИЕ
-- GLD -0.65% — REFLATION очаква СИЛЕН → НЕУТРАЛНО
-- TLT -0.46% — REFLATION очаква СЛАБ → НЕУТРАЛНО (близо до 0)
-- EEM/SPY +0.06 (3M) — НЕУТРАЛНО
-- VIX 17.19 (низ.) | MOVE 67.25 (-6.9% дн.) | HY-spread 2.77 (стегнат)
-- 10Y 4.38% (8.05) спрямо 4.39% (1.05) → −1bp седмица (стабилен)
+Реалността е различна:
+1. Oil остава $104 (Khamenei директива за уран на иранска територия 22.05)
+2. AI productivity още не се вижда в data — наративен, не измеримо в YoY
+3. **Заетостта е стабилна по СТРУКТУРНА причина — НЕ циклична** (миграционен нюанс)
 
-**G_Vel 2.8 vs I_Vel 1.42 — растежният momentum е двойно по-силен от инфл.**
-Това може да е първи знак за регресия обратно към GROWTH в идващите седмици.
+**🔑 МИГРАЦИОНЕН НЮАНС (от Цветослав — ключово ново знание):**
+Anti-migration политика → нулев приток на нова работна сила → labor supply замразен → tight labor structurally → wage stickiness отдолу → service inflation остава sticky (housing, healthcare, leisure). Fed НЕ МОЖЕ да разчита на омекотяване на labor market за да свали инфлацията — това е **structural stagflation generator**. Стабилна заетост ≠ силна заетост. Реалността е inflation-plus-stable-output, не GROWTH.
+
+**Gap анализ — 4 ПРОТИВОРЕЧИЯ / 2 ПОТВЪРДЕНИ (4W cumulative):**
+- SPY +4.38% — очаква СЛАБ → ❌ ПРОТИВ. (AI/peace pricing)
+- QQQ +7.94% — очаква СЛАБ → ❌ ПРОТИВ. (AI lead)
+- XLE +4.92% — очаква СИЛЕН → ✅ ПОТВ. (но тази седмица +0.08% паузира)
+- GLD −4.45% — очаква СИЛЕН → ❌ ПРОТИВ. (3-та седмица аномалия)
+- TLT −2.31% — очаква СЛАБ → ✅ ПОТВ. (облигациите не вярват)
+- TIP −1.28% — очаква СИЛЕН → ❌ ПРОТИВ.
+
+**КЛЮЧОВО:** Equities цени peace+AI; bonds НЕ вярват. 10Y 4.56% не пада, curve flattens 56→43bp, MOVE > 200-DMA. Когато equities и bonds се разминават, **bonds обикновено са прави**.
+
+**Стилови ratios:** VUG/VTV +0.42 (GROWTH стил доминира — нетипично за REFLATION), XLY/XLP +1.41 (силно risk-on), HYG/LQD +0.74 (кредит риск-он). IWM +2.71% — defensive rotation (XLV/XLU) + breadth = класически късно-цикличен everything-rally pattern.
+
+**Stress карта:** VIX 16.70 < 200-DMA 18.36 (equity спокойно); MOVE 78.43 > 200-DMA 73.74 (bonds нервни); HY 2.80 (кредит здрав); Curve 43bp < 200-DMA 56bp. Asymmetry equity vs rates → късно-цикличен setup.
+
+**Позициониране:** 100% REFLATION остава правилно. Cost of being early ≠ cost of being wrong. Пропускаме 5-10% upside при оптимистичен изход; хващаме 10-20% relative outperformance при крах на която и да е от трите надежди.
+
+**FALSIFIERS — следи 2-4 седмици:**
+- Oil < $90 = peace pricing in / > $115 = breakdown
+- CPI Май (10.06): headline < 3.5% = perception печели / > 3.8% = sticky
+- 10Y yield < 4.20% = Fed cuts pricing / > 4.80% = hawkish repricing
+- GLD < $4,300 = pricing finalized / > $4,600 = реалността пробива
+- Jobless claims < 220k structural / > 250k первата пукнатина
+- Q2 earnings AI guidance — силен/discount
 
 **Ключови дати:**
-- 12 Май: CPI April — falsification ден за behavioral GROWTH narrative
-- 14 Май: PPI April
-- ~16 Май: Седмичен преглед на ре-вход Стъпка 2
+- 4 юни: Уебинар "Перцепция срещу реалност — къде грешат пазарите?" (обещано на абонати в Пазарен Пулс)
+- 10 юни: CPI Май release — главен falsifier
+- 17-18 юни: FOMC (нов председател след Powell)
 
 ---
 
@@ -135,10 +151,13 @@ KS защити портфейла през периода. Условията �
 - [✅] **Ре-вход Стъпка 2 (16 май):** Завършен — 100% REFLATION. Trigger: CPI 3.8% + gap 4/1/1 (изравняване с модела).
 - [✅] **Behavioral dislocation мониторинг:** Отминала 16.05. CPI 3.8% беше falsification ден; пазарът се изравни с модела (XLE +8.20% 4W).
 - [✅] **B→A тест-случай:** Резултат: CPI = 3.8% (>3.5% threshold) + Ормуз затворен. Документирай дали Вариант B би бил по-добър от A в реалния период.
-- [ ] **Вътре-режимна ротация мониторинг:** Peace premium падане (Trump-Xi без пробив + Ормуз затворен) → силен XLE/DBC vs отслабване SPY/QQQ. Следи 1-2 седмици.
-- [ ] **GLD аномалия:** −6.46% 4W при CPI 3.8% — единственото противоречие в gap. Възможни драйвери: DXY rebound + real yields up. Следи дали ще се обърне.
+- [⚠️] **Вътре-режимна ротация мониторинг:** XLE паузира тази седмица (+0.08% спрямо +4.92% 4W) — пазарът започва да цени peace premium. Defensive rotation (XLV +3.30%, XLU +3.37%) + breadth (IWM +2.71%) активни — класически късно-цикличен everything-rally signal.
+- [⚠️] **GLD аномалия (3-та седмица):** −4.45% 4W при CPI 3.8% — продължава да противоречи на REFLATION очакването. Драйвер: пазарите цени dezинфлация (peace dividend) + DXY rebound + real yields up. **Falsifier:** GLD < $4,300 → perception trade печели; GLD > $4,600 → реалността пробива. Следи след CPI 10.06.
+- [ ] **Perception trade falsifiers (2-4 седмици):** Oil, CPI Май, 10Y yield, GLD, XLE, jobless claims, Q2 AI earnings — пълен списък в КОНТЕКСТ секцията. Решение дали запазваме 100% REFLATION ще зависи от тези сигнали.
+- [ ] **Migration nuance мониторинг:** Тезата за structural stagflation generator (anti-migration → tight labor → wage stickiness → sticky service inflation) тества се с jobless claims weekly + JOLTS. Сигнал за валидиране: claims остават < 220k при ускоряваща се wage inflation.
 - [ ] **Action Brief (Ф8):** Решение дали официално влиза в Orchestrator като Ф8.
 - [ ] **Reading Guide T1 (Деси):** Следващ клиентски продукт. Светла тема, центриран около Пазарен Пулс.
+- [ ] **Уебинар 4 юни:** Обещано на абонати в Пазарен Пулс 26.05. Тема: "Перцепция срещу реалност — къде грешат пазарите?" — материали за подготовка.
 - [✅] **Архивен протокол за Ф5 (2026-04-25):** Установен. Седмичен snapshot в `Dashboards/Archive/YYYY-MM-DD/`. Включва: HTML дашборд, gms_output.json, vrm_data snapshot, econ_context, weekly_analysis.md. Пълен протокол: `VRM-Skill-References/archive-protocol.md`. Индекс: `Dashboards/Archive/README.md`. **Прилага се всяка седмица при изпълнение на Ф5.**
 
 ---
@@ -160,12 +179,31 @@ KS защити портфейла през периода. Условията �
 | 2026-05-10 | KS Еп.8 ДЕАКТИВИРАН (6.1 седмици)             | 🟢 ЗАТВОРЕНО  | Двете условия изпълнени. Ре-вход [B] фазиран. Тестов режим. |
 | 2026-05-10 | Behavioral dislocation одобрена като диагноза | 🟢 ЗАТВОРЕНО  | Отминала 16.05: gap 4/1/1, пазарът се изравни с модела. CPI 3.8% беше falsification. |
 | 2026-05-16 | Ре-вход [B] Step 2 → 100% REFLATION             | 🟢 ЗАТВОРЕНО  | Behavioral dislocation отминала. CPI 3.8% потвърди тезата. XLE се обърна нагоре. |
+| 2026-05-24 | Perception trade vs Reality диагноза            | 🔴 АКТИВНО    | 4 ПРОТИВОРЕЧИЯ от 6. Пазарите цени peace+AI+stable jobs; bonds не вярват. 100% REFLATION защитено. Migration nuance като structural stagflation generator. |
+| 2026-05-22 | 8-та поредна седмица S&P 500 печалба            | 🟡 ЗАТИХВАЩО  | Late-cycle setup; defensive rotation активна; VIX < 200-DMA but MOVE > 200-DMA. |
 
 *Статус: 🔴 АКТИВНО = продължава да влияе | 🟡 ЗАТИХВАЩО = следим | 🟢 ЗАТВОРЕНО = вече ирелевантно*
 
 ---
 
 ## 📋 ROLLING LOG — Последни 4 Седмици
+
+### 2026-05-26 (Week +8.4 — Ф1+Ф2+Ф3+Ф7 пълен deliverable цикъл)
+- **Режим:** REFLATION | Alignment: 7.0/8 (формално УМЕРЕН-ЧИСТ; ОСПОРВАН ПО СЪЩЕСТВО) | GMS: 0/8 LOW
+- **KS Статус:** 🟢 ДЕАКТИВИРАН (Еп.8 архивиран 10.05) | SPY 4W: +4.44% (далеч от прагове) | Портфейл: 100% REFLATION
+- **4W returns:** SPY +4.38% | QQQ +7.94% | IWM +3.10% | XLE +4.92% | XLV +3.95% | TLT −2.31% | GLD −4.45% | TIP −1.28% | DBC +2.38%
+- **Седмични (18-22.05):** SPY +0.88% | QQQ +1.21% | IWM +2.71% | XLE +0.08% (paуза) | XLV +3.30% | XLU +3.37% | TLT +1.22% | GLD −0.83%
+- **Gap диагноза:** 4 ПРОТИВОРЕЧИЯ (SPY/QQQ/GLD/TIP) / 2 ПОТВЪРДЕНИ (XLE/TLT) / 1 НЕУТРАЛНО (EEM/SPY)
+- **🔑 ДИАГНОЗА (одобрена от Цветослав):** PERCEPTION TRADE vs REALITY — пазарите цени peace+AI+stable jobs; реалността е inflation+stable-output
+- **🔑 МИГРАЦИОНЕН НЮАНС (НОВО ОТ ЦВЕТОСЛАВ):** Стабилна заетост е СТРУКТУРНА (anti-migration → labor supply замразен → wage stickiness → sticky service inflation), не циклична. Fed не може да разчита на омекотяване на труда. **Structural stagflation generator.**
+- **Equity vs Bonds дивергенция:** SPY 8-та седмица печалба; 10Y 4.56% не пада; curve flattens 56→43bp; MOVE > 200-DMA. Bonds не вярват — обикновено са прави.
+- **Stress карта:** VIX 16.70 (спокойно) | MOVE 78.43 (нервни) | HY 2.80 (здрав) | Curve 43bp (сплесква). Asymmetry equity vs rates → late-cycle setup.
+- **Външен контекст:** Brent ~$104 (Khamenei директива 22.05 за уран на иранска територия — peace deal по-далечен); Gold ~$4,510; CPI April 3.8% headline / 2.8% core; FOMC 29.04 rates 3.5-3.75% (Powell last meeting, 4 dissents).
+- **Workflow:** Ф1 + Ф2 + Ф3 + Ф7 завършени; Ф4/Ф6 пропуснати
+  - `vrm_analyst_brief_2026_05.html` ✅ (43 KB, тъмна, Macro Engine 36M chart, falsifiers таблица)
+  - `pazaren_puls_2026_05_26.html` ✅ (23 KB, светла тема, без PDF този път)
+  - VRM_WEEK.md обновен с Falsifiers секция и migration nuance
+- **Одобрено от Цветослав:** Perception vs Reality диагноза, миграционен нюанс, нарация на Пазарен Пулс, 100% REFLATION позициониране остава
 
 ### 2026-05-16 (Week +7.1 — Ф1+Ф2 минимален цикъл)
 - **Режим:** REFLATION | Alignment: 7.0/8 | INFL_PROT: UNDER | GMS: 0/8 LOW
