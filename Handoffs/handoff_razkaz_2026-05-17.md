@@ -42,7 +42,7 @@
 `C:\Users\tsach\.claude\skills\weekly-story-teller\SKILL.md`
 
 **3. Доклад за Тръмп в Китай:**
-`C:\Users\tsach\Downloads\Посещението на Тръмп в Китай — май 2026  Геополитически, дипломатически и бизнес анализ.md`
+`C:\Projects\macro\_library\Посещението на Тръмп в Китай — май 2026  Геополитически, дипломатически и бизнес анализ.md`
 
 **4. ETF Dashboard данни към 15 май 22:44 UTC:**
 `C:\Projects\dashboards\ETF-Dashboard\data\etfs.json`
