@@ -48,16 +48,16 @@
 `C:\Projects\dashboards\ETF-Dashboard\data\etfs.json`
 
 **5. SP500 Rotation Radar (към 14 май):**
-`C:\Projects\dashboards\SP500-rotationradar\docs\data.json`
+`C:\Projects\markets\SP500-rotationradar\docs\data.json`
 
 **6. VRM текущо състояние:**
 `C:\Users\tsach\Downloads\VRM2\VRM_STATE.md`
 
 **7. US Macro Briefing (към 14 май):**
-`C:\Projects\dashboards\us-macro-dashboard\output\briefing_context_2026-05-14.md`
+`C:\Projects\macro\us-macro-dashboard\output\briefing_context_2026-05-14.md`
 
 **8. EU Macro Briefing (към 14 май):**
-`C:\Projects\dashboards\eu-macro-dashboard\output\briefing_context_2026-05-14.md`
+`C:\Projects\macro\eu-macro-dashboard\output\briefing_context_2026-05-14.md`
 
 ---
 
@@ -158,7 +158,7 @@
 
 4. ⏳ COT данни (точка 9) — от `C:\Projects\dashboards\cot-cta-positioning-dashboard\` — какви са текущите позиции на asset managers vs hedge funds в облигации, oil, gold, equities
 
-5. ⏳ Rotation update към 16 май (точка 10) — git pull в `C:\Projects\dashboards\SP500-rotationradar` ако има нов commit
+5. ⏳ Rotation update към 16 май (точка 10) — git pull в `C:\Projects\markets\SP500-rotationradar` ако има нов commit
 
 ---
 
